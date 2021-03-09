@@ -3,9 +3,9 @@ This keeps tracks for topics and subcribers(endpoints) subscribed to particular 
 
 
 ## Setup Instruction
-```composer install```
-```setup your env variables```
-```php artisan migrate --seed ```
+- composer install
+- setup your env variables
+- php artisan migrate --seed
 
 ## Endpoints
 	 POST /subscribe/{topic}
